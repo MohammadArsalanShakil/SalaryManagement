@@ -1,0 +1,10 @@
+﻿  Admin.cpp
+  Deductions.cpp
+  Department.cpp
+  Employee.cpp
+  Person.cpp
+  Salary.cpp
+  Source.cpp
+C:\Users\Arsalan\source\repos\SalaryManagement\SalaryManagement\Source.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  SalaryManagement.vcxproj -> C:\Users\Arsalan\source\repos\SalaryManagement\Debug\SalaryManagement.exe
